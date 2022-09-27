@@ -1,9 +1,9 @@
 {
-  "name": "parcel-project-template",
+  "name": "hellen-project",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AlexHorzhij/hellen-project",
+  "homepage": "https://AlexHorzhij.github.io/hellen-project",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /hellen-project/"
